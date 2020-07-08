@@ -1,0 +1,59 @@
+<div class="container">
+                              <div class="card-deck">
+                                  <div class="card">
+                                    <img src="Photos/Morder psyc.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Mordern Physics</h5>
+                                      <p class="card-text">Designation</p>
+                                      <button class="all-button">Buy Course</button>
+                                      <div class="d-flex justify-content-between">
+                                        <div class="d-flex justify-content-start">
+                                            <img class="mid" src="ICON/calendar.png">
+                                            <p class="mid1">Will Start Soon</p>
+                                        </div>
+                                        <div class="d-flex justify-content-end">
+                                        <img class="mid" src="ICON/people.png">
+                                        <p class="mid1">Constructor</p>
+
+                                        </div>
+                                    </div>
+                                    </div>
+                                  </div>
+                                  <div class="card">
+                                    <img src="Photos/Morder pychons.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Biology</h5>
+                                      <p class="card-text">Designation</p>
+                                      <button class="all-button">Buy Course</button>
+                                      <div class="d-flex justify-content-between">
+                                        <div class="d-flex justify-content-start">
+                                            <img class="mid" src="ICON/calendar.png">
+                                            <p class="mid1">Will Start Soon</p>
+                                        </div>
+                                        <div class="d-flex justify-content-end">
+                                        <img class="mid" src="ICON/people.png">
+                                        <p class="mid1">Constructor</p>
+
+                                        </div>
+                                    </div>
+                                    </div>
+                                  </div>
+                                  <div class="card">
+                                    <img src="Photos/Morder pyschology.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Chemistry</h5>
+                                      <p class="card-text">Designation</p>
+                                      <button class="all-button">Buy Course</button>
+                                    <div class="d-flex justify-content-between">
+                                        <div class="d-flex justify-content-start">
+                                            <img class="mid" src="ICON/calendar.png">
+                                            <p class="mid1">Will Start Soon</p>
+                                        </div>
+                                        <div class="d-flex justify-content-end">
+                                          <img class="mid" src="ICON/people.png">
+                                          <p class="mid1">Constructor</p>
+                                         </div>
+                                    </div>
+                                    </div>
+                                  </div>
+                                  </div>

@@ -1,0 +1,99 @@
+nav img{
+    height: 40px;
+    width:120px;
+}
+.banner-photo{
+    height: 350px;
+    width:550px;
+}
+.ban{
+    color:red;
+}
+.time{
+    color:#21B573;
+}
+.all-button{
+    background-color:#21B573;
+    padding: 12px 15px;
+    border-radius: 30px;
+    border: none;
+}
+.nav-item{
+    margin-left: 5px;
+}
+.top-part{
+    background-color: #f0fff0;
+    height: 550px;
+    
+}
+
+.description{
+    
+    margin-left: 50px;
+}
+.icon{
+    height: 60px;
+    width: 50px;
+   padding-bottom: 10px;
+}
+.container{
+    margin-bottom: 100px;
+    
+}
+.cat1{
+    background-color: #f0fff0;
+    padding: 50px 20px;
+    width:200px;
+    height:200px;  
+    text-align: center;
+}
+.cat1:hover{
+    background-color: lightyellow;
+    box-shadow: 5px 5px 10px gray;
+}
+.mid{
+    width: 20px;
+    height:20px;
+    position: relative;
+    top: 32px;
+}
+ p.mid1{
+    position: relative;
+    top: 30px; 
+ }   
+    
+ .card{
+    box-shadow: 5px 5px 20px gray;
+ }
+.headings{
+    text-align: center;
+    margin-bottom: 60px;
+    padding: 10px;
+}
+.man{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 150px;
+}
+.last1{
+    background-color:black;
+    padding-left:80px;
+    padding-top: 20px;
+    padding-bottom:80px ;
+    color:white;
+}
+ul{
+    list-style-type:none;
+}
+.light{
+    font-weight: lighter;
+}
+.nam{
+    font-weight: bolder;
+}
+footer{
+    text-align: center;
+    color:white;
+    background-color: black;
+}
